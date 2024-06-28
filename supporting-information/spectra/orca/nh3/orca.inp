@@ -1,0 +1,11 @@
+! FREQ
+! WB97X-D4 def2/J def2-QZVP
+! VeryTightSCF DEFGRID3 MINIPRINT NOPRINTMOS NOPOP
+
+%pal
+  nprocs   28
+end
+
+%MaxCore   5000
+
+*xyzfile 0 1 mol.xyz

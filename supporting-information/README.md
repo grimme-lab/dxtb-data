@@ -6,9 +6,9 @@ SI for the paper:
 <br>
 *M. Friede, C. Hölzer, S. Ehlert, S. Grimme*
 <br>
-J. Chem. Phys. 2024, xxx.
+J. Chem. Phys. 2024, 161, 062501.
 <br>
-DOI: []()
+DOI: [https://doi.org/10.1063/5.0216715](https://doi.org/10.1063/5.0216715)
 
 
 ## Contents
